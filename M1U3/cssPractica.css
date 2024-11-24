@@ -65,6 +65,7 @@ h1{
     font-family: helvetica;
     background-color: rgb(41, 98, 206);
     align-content: center;
+    border-radius: 10px;
 }
 
 #boton02{
@@ -75,6 +76,7 @@ h1{
     font-family: helvetica;
     background-color: rgb(192, 41, 206);
     align-content: center;
+    border-radius: 10px;
 }
 
 #boton03{
@@ -85,6 +87,7 @@ h1{
     font-family: helvetica;
     background-color: rgb(207, 172, 125);
     align-content: center;
+    border-radius: 10px;
 }
 
 #boton04{
@@ -95,4 +98,5 @@ h1{
     font-family: helvetica;
     background-color: rgb(41, 206, 198);
     align-content: center;
+    border-radius: 10px;
 }

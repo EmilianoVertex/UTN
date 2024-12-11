@@ -11,8 +11,8 @@
     <div>Caracteres: <span id="contar"></span></div>
 
     <script>
-        var texto = document.getElementById('texto');
-        var contar = document.getElementById('contar');
+        let texto = document.getElementById('texto');
+        let contar = document.getElementById('contar');
         
         texto.addEventListener('keyup', function(){
             contar.innerText = texto.value.length;

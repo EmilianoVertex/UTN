@@ -1,4 +1,4 @@
-const valor1 = prompt("Ingrese la distancia que desea recorrer");
+let valor1 = prompt("Ingrese la distancia que desea recorrer");
 
 if (valor1 <= 0) {
     document.write('Ingrese una distancia válida');
@@ -11,3 +11,7 @@ if (valor1 <= 0) {
 } else {
     document.write('Definitivamente deberías sacar un pasaje de avión');
 }
+
+
+let miCadena = "Cuantos caracteres hay";
+console.log(miCadena[miCadena.length -1]);
